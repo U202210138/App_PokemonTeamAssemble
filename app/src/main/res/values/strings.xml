@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App_PokemonTeamAssemble</string>
+    <string name="pokemon_team_assemble">Pokemon Team Assemble</string>
+    <string name="assemble">Assemble</string>
+    <string name="teams">Teams</string>
+    <string name="ivPikachu">Pikachu Logo</string>
+    <string name="random">Random</string>
+    <string name="_2">2</string>
+    <string name="team_of">Team of</string>
+</resources>
